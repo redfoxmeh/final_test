@@ -10,3 +10,4 @@ void ArrayChecking(string [] array)
         }
     }
 }
+Console.WriteLine("\nHappy New Year!");
