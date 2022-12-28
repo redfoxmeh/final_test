@@ -1,4 +1,4 @@
-﻿string [] array = { "Hello", ", ", "World", "!", "I", "am", "Groot", "42" };
+string [] array = { "Hello", ", ", "World", "!", "I", "am", "Groot", ".", "42", "lol"};
 ArrayChecking(array);
 void ArrayChecking(string [] array)
 {
